@@ -36,17 +36,7 @@ git
 
 Postman
 
-In the lab we completed the following parts: 
 
-Part 1: Required Course Software Tools Installation and Setup
-
-Part 2: Software Tools Practice
-
-Part 3: Terminal or Shell Command Practice
-
-Part 4: Keyboard Shortcut Practice
-
-Part 5: First Node Server-Side JavaScript File
 
 The following were all the lab deliverables(the code files are included in Github as files):
 
