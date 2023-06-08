@@ -1,0 +1,10 @@
+total 0
+-rw-r--r--  1 ivansigala  staff   0 Apr  7 15:47 lab-01-folders.txt
+drwxr-xr-x@ 3 ivansigala  staff  96 Apr  7 15:29 p1
+drwxr-xr-x@ 2 ivansigala  staff  64 Apr  7 14:47 p2
+drwxr-xr-x@ 2 ivansigala  staff  64 Apr  7 14:47 p3
+drwxr-xr-x@ 2 ivansigala  staff  64 Apr  7 14:47 p4
+drwxr-xr-x@ 2 ivansigala  staff  64 Apr  7 14:47 p5
+drwxr-xr-x@ 2 ivansigala  staff  64 Apr  7 14:47 p6
+drwxr-xr-x@ 2 ivansigala  staff  64 Apr  7 14:47 p7
+drwxr-xr-x@ 2 ivansigala  staff  64 Apr  7 14:47 p8
